@@ -1,9 +1,9 @@
 mplcursors==0.6
 pykalman==0.9.7
 filterpy==1.4.5
-voila==0.5.8
+voila
 ipython
-ipywidgets==7.7.0
+ipywidgets>=7.6.3
 matplotlib
 numpy
 pandas
